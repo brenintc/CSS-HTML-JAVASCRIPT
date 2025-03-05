@@ -1,3 +1,3 @@
 # CSS-HTML-JAVASCRIPT
 
-Repository to put files that are sites and relationed things.
+First simple project. Website with interative button made with JavaScript.
